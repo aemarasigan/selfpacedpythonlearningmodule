@@ -1,0 +1,101 @@
+﻿student_id,age,sex,scholarship_status,internet_access,monthly_allowance,weekly_study_hours,primary_gadget_use,common_media_platform,preferred_social_media,screen_time_per_day,monthly_data_expense,self_rated_physical_health,self_rated_mental_health,sleep_quality,sleep_duration,gpa,stress_days_per_week,satisfaction_score
+1,24,Other,No,Home WiFi,5493,21,Entertainment,Facebook,Facebook,3.5,1001,Very Good,Good,Very Good,5.1,1.73,1,60.7
+2,21,Female,No,None,5911,34.5,Academic,Netflix,Snapchat,2.6,789,Very Good,Fair,Excellent,7.4,3.69,6,76.6
+3,22,Female,No,Public WiFi,4987,11.8,Entertainment,Instagram,Facebook,1.8,109,Fair,Fair,Fair,9.5,2.16,5,72.4
+4,24,Female,No,Mobile Data,7015,19.4,Academic,Facebook,Instagram,2.1,360,Good,Very Good,Excellent,4.2,1.82,3,56.3
+5,20,Female,No,None,2218,29.5,Social Media,Netflix,Facebook,5.1,271,Good,Poor,Good,8.2,3.72,5,69.8
+6,25,Female,No,Home WiFi,5496,9.8,Academic,TikTok,Twitter,2.9,997,Excellent,Fair,Poor,5.8,3.89,2,64.3
+7,22,Female,No,Public WiFi,5735,9.6,Academic,TikTok,Facebook,4.3,112,Very Good,Good,Good,9.5,3.66,2,60.9
+8,22,Other,Yes,None,5555,38.9,Social Media,Netflix,Snapchat,5.5,1291,Good,Very Good,Fair,9.8,3.52,2,52.8
+9,24,Other,No,None,9050,30,E-commerce,Netflix,TikTok,7.2,420,Fair,Poor,Very Good,9.7,3.14,0,70.9
+10,19,Female,No,Public WiFi,4446,6.4,E-commerce,Instagram,Facebook,1.4,1442,Fair,Excellent,Excellent,6.8,2.88,5,58.3
+11,20,Other,Yes,None,2045,19,Academic,Instagram,Snapchat,8.2,428,Good,Good,Poor,9.2,1.72,3,62.9
+12,24,Male,No,Public WiFi,7893,20.2,Social Media,TikTok,Snapchat,6.7,884,Very Good,Fair,Excellent,9.1,2.52,3,86.1
+13,20,Female,Yes,Mobile Data,2693,31,Academic,Facebook,Twitter,1.7,876,Fair,Fair,Fair,5.9,2.43,4,79.5
+14,20,Male,Yes,Public WiFi,4436,13.8,Entertainment,TikTok,Snapchat,8.9,1010,Excellent,Good,Excellent,9,2.15,4,55.3
+15,25,Male,No,Public WiFi,9754,11.5,Entertainment,Facebook,Snapchat,9.3,1218,Fair,Fair,Poor,4.2,3.31,6,75.3
+16,22,Female,Yes,Public WiFi,6895,7.8,Academic,Facebook,Snapchat,1.5,417,Poor,Very Good,Fair,7.6,2.74,4,72
+17,21,Other,Yes,None,4354,20,E-commerce,Instagram,Snapchat,3.5,335,Poor,Poor,Excellent,5.4,1.7,2,95.5
+18,25,Male,Yes,None,1225,29.1,E-commerce,YouTube,Instagram,8.3,433,Very Good,Very Good,Very Good,4.7,2.05,3,90.7
+19,25,Female,Yes,Public WiFi,5893,7,Academic,YouTube,Instagram,7.7,475,Good,Fair,Fair,4.5,3.21,5,47
+20,20,Male,No,None,8022,37,Academic,Netflix,Twitter,2.7,1260,Very Good,Excellent,Fair,8.2,1.69,2,82.9
+21,23,Male,Yes,Home WiFi,6600,20.5,Entertainment,Instagram,Facebook,2.9,687,Very Good,Poor,Very Good,6,3.63,0,89
+22,22,Male,No,Home WiFi,8996,13.4,E-commerce,Facebook,Snapchat,4.3,612,Very Good,Poor,Good,8.3,2.74,4,78.4
+23,19,Male,Yes,None,8683,8.3,Academic,YouTube,Facebook,5.4,1419,Very Good,Good,Poor,4.4,2.7,2,65
+24,25,Other,Yes,None,5642,11.4,Entertainment,Facebook,Facebook,6.6,1443,Excellent,Good,Good,5.9,2.98,2,100
+25,21,Male,Yes,Public WiFi,8679,37.7,E-commerce,YouTube,Twitter,4.3,1017,Excellent,Excellent,Excellent,7.2,3.56,0,79.8
+26,23,Male,Yes,Mobile Data,9208,27.3,Social Media,YouTube,Snapchat,5.2,1472,Fair,Poor,Very Good,8.7,2.37,1,99.6
+27,23,Male,No,None,8339,23.1,Entertainment,YouTube,Snapchat,7.7,972,Poor,Excellent,Good,5.9,3.2,3,90.3
+28,19,Other,No,Home WiFi,3205,28,E-commerce,Instagram,TikTok,1.3,1352,Very Good,Good,Fair,7.8,2.91,5,77
+29,25,Male,Yes,Public WiFi,2069,20.2,E-commerce,TikTok,Facebook,3.3,369,Fair,Good,Excellent,9.3,2.17,6,61.3
+30,21,Male,Yes,None,4444,30.6,Entertainment,Facebook,Facebook,7.4,897,Poor,Poor,Excellent,7.7,3.7,1,69.6
+31,22,Other,No,Home WiFi,2060,6.7,Social Media,Instagram,Instagram,9.1,1414,Good,Very Good,Good,5.4,3.49,4,66.7
+32,18,Other,Yes,Home WiFi,3327,24.8,Entertainment,Instagram,TikTok,5.6,824,Excellent,Fair,Good,4.1,3.15,2,51.8
+33,21,Other,Yes,Mobile Data,4420,10.6,E-commerce,Instagram,Instagram,5.8,1288,Poor,Good,Very Good,9.2,3.63,0,79.8
+34,19,Male,Yes,Public WiFi,1301,9.2,Academic,Instagram,Instagram,2,104,Good,Good,Poor,4.1,3.67,0,93.5
+35,23,Other,No,Public WiFi,1606,17,Academic,Instagram,Instagram,5,950,Poor,Very Good,Good,9.2,3.27,3,65.5
+36,22,Other,No,Mobile Data,4170,8.2,Entertainment,Netflix,Twitter,5.8,177,Excellent,Very Good,Good,7.2,3.59,1,100
+37,21,Male,No,Mobile Data,1699,8.3,E-commerce,Facebook,Twitter,3.2,673,Excellent,Excellent,Fair,9.6,3.24,6,46.6
+38,18,Other,Yes,Public WiFi,6088,15.9,Academic,Instagram,Instagram,3.4,231,Fair,Excellent,Excellent,8.8,3.2,3,85.8
+39,18,Male,Yes,Public WiFi,1190,39.3,E-commerce,Facebook,TikTok,4.4,700,Very Good,Fair,Poor,10,3.05,2,95.1
+40,20,Female,No,None,1980,11.1,Entertainment,Netflix,Facebook,1.2,1165,Poor,Fair,Fair,6.1,3.38,3,66.9
+41,20,Other,No,None,3975,5.6,Academic,Netflix,TikTok,3.9,188,Poor,Poor,Very Good,8.6,1.9,5,67.2
+42,24,Female,No,Mobile Data,7102,31.7,E-commerce,Facebook,Snapchat,2.9,501,Good,Excellent,Very Good,6.4,3.7,0,85.6
+43,19,Male,No,None,2184,33.2,Academic,YouTube,Twitter,3.9,395,Excellent,Good,Good,6.9,3.68,0,77.6
+44,25,Other,Yes,Home WiFi,4327,17.1,Entertainment,TikTok,Facebook,2.1,1418,Poor,Excellent,Good,7.8,1.57,4,40
+45,21,Male,No,None,4394,21.3,E-commerce,YouTube,Facebook,9,715,Excellent,Good,Very Good,9.2,3.56,4,57.3
+46,21,Female,Yes,None,9319,27.7,Academic,YouTube,Snapchat,6.3,899,Poor,Very Good,Good,9.9,1.82,6,69.8
+47,25,Male,No,Home WiFi,2816,6.7,Entertainment,YouTube,Snapchat,7.1,521,Fair,Excellent,Poor,8.6,2.34,2,49.5
+48,24,Other,Yes,Mobile Data,6854,38.2,Academic,Instagram,Instagram,8.1,1146,Very Good,Very Good,Good,6.5,3.36,5,62.9
+49,23,Other,No,Home WiFi,7709,36,Academic,Netflix,Twitter,5.5,674,Poor,Fair,Excellent,6.5,1.9,1,49.8
+50,23,Female,No,None,1569,14.1,Social Media,YouTube,Twitter,1.8,242,Excellent,Fair,Good,8.4,3.54,3,64.4
+51,24,Male,No,Mobile Data,6442,5.5,Social Media,Netflix,TikTok,5.8,1092,Fair,Poor,Fair,5.4,3.58,6,65
+52,23,Other,No,None,2895,37.7,Entertainment,Facebook,Instagram,6.3,764,Poor,Excellent,Poor,4.7,2.77,2,75.3
+53,20,Female,Yes,Home WiFi,3733,22.5,Social Media,TikTok,Instagram,7.7,244,Good,Very Good,Fair,6.1,1.52,4,68.6
+54,21,Other,No,Home WiFi,4863,23.9,Entertainment,Facebook,Instagram,4.9,1348,Very Good,Good,Fair,5.7,2.22,3,77.5
+55,24,Other,Yes,None,8455,28.9,Social Media,Facebook,Instagram,2.1,1106,Poor,Fair,Excellent,5.8,3.04,4,75.8
+56,21,Male,Yes,Public WiFi,5014,26.6,Academic,Instagram,Twitter,3.6,602,Fair,Fair,Poor,5.4,3.95,3,85.5
+57,25,Other,Yes,Public WiFi,2686,38,Entertainment,TikTok,Twitter,4.3,920,Good,Good,Poor,4.3,3.08,1,83.1
+58,18,Male,Yes,Home WiFi,4009,38,Entertainment,Facebook,Instagram,6.8,203,Fair,Very Good,Poor,4.1,2.15,2,81.5
+59,20,Other,No,Home WiFi,8806,35.4,Academic,Facebook,TikTok,6.1,1162,Fair,Very Good,Poor,9.9,3.09,3,100
+60,22,Female,Yes,Public WiFi,1154,27.3,Entertainment,TikTok,Facebook,4.2,297,Good,Excellent,Poor,6.6,2.85,5,75.2
+61,20,Other,Yes,Public WiFi,2409,33,Entertainment,TikTok,Facebook,9.9,678,Fair,Excellent,Excellent,6.3,3.45,6,100
+62,24,Male,Yes,None,1784,28.7,Social Media,Facebook,TikTok,6.5,490,Good,Poor,Good,8.1,1.77,0,76.2
+63,22,Male,No,None,9096,25.1,Entertainment,TikTok,Instagram,3.1,1302,Poor,Fair,Fair,5.3,3.4,5,68.8
+64,18,Female,No,Public WiFi,8560,9.5,E-commerce,Facebook,Twitter,1.9,653,Good,Excellent,Poor,9.7,2.85,5,64.4
+65,24,Other,No,None,8343,33.4,Academic,Facebook,Facebook,2.4,1138,Good,Very Good,Good,8.7,3.91,6,92.6
+66,19,Other,No,None,8206,33.7,Social Media,Instagram,Snapchat,3.2,1412,Very Good,Good,Good,4.5,2.35,0,94.6
+67,21,Female,Yes,Mobile Data,6596,26.9,Social Media,YouTube,Snapchat,2.4,577,Good,Very Good,Fair,6.5,3.08,5,79
+68,18,Other,Yes,None,6801,33.7,E-commerce,Facebook,TikTok,2.7,1354,Good,Fair,Excellent,9.3,3.83,3,87
+69,21,Other,No,Home WiFi,3806,27.8,Academic,Netflix,Instagram,3.6,1022,Poor,Very Good,Very Good,9.7,1.76,3,50.8
+70,23,Male,Yes,None,1537,12.2,Academic,YouTube,Facebook,2.6,519,Very Good,Poor,Very Good,6.8,3.84,3,46.8
+71,19,Other,Yes,None,6986,14.6,Social Media,YouTube,Instagram,9.1,256,Excellent,Fair,Good,7.7,3.22,0,88.7
+72,19,Other,Yes,Public WiFi,2841,12.5,Entertainment,YouTube,Facebook,1.7,649,Poor,Good,Fair,5,1.67,5,68.1
+73,18,Female,No,Home WiFi,9716,18.2,Social Media,Instagram,TikTok,5.7,1220,Poor,Poor,Very Good,9.9,2.25,0,81.2
+74,19,Female,No,None,7971,6.4,Academic,Facebook,TikTok,4.7,1120,Excellent,Fair,Good,5.4,3.27,3,59.2
+75,22,Male,Yes,None,6625,26.6,E-commerce,Instagram,Snapchat,9.8,1096,Good,Good,Excellent,9.7,1.67,6,94.9
+76,19,Other,No,Mobile Data,3950,16.8,Social Media,Facebook,Instagram,2,1050,Fair,Poor,Very Good,7.9,2.96,5,46.9
+77,21,Other,No,None,8992,28,Academic,Instagram,Snapchat,4.6,388,Very Good,Poor,Good,7.6,2.36,5,49.2
+78,21,Other,No,None,5780,18.5,Social Media,Instagram,Instagram,9.7,1377,Fair,Fair,Good,7.1,3.05,4,91.7
+79,24,Male,No,Mobile Data,3368,28.9,Entertainment,Netflix,Snapchat,8.8,295,Excellent,Excellent,Poor,5.4,1.61,4,30.9
+80,21,Male,No,Public WiFi,7655,16.9,Social Media,Instagram,Twitter,8.4,697,Poor,Poor,Excellent,5.1,3.68,1,75.7
+81,24,Female,Yes,None,9173,14.1,Social Media,TikTok,Twitter,3.3,616,Poor,Poor,Poor,5.3,3.93,2,68.4
+82,21,Male,No,Mobile Data,5495,22.4,Academic,Netflix,Twitter,2.5,964,Very Good,Good,Fair,5.1,3.92,4,59
+83,22,Other,Yes,Home WiFi,7002,29.3,Academic,Instagram,Twitter,7,1241,Poor,Very Good,Poor,8.7,3.37,0,67
+84,25,Other,Yes,Public WiFi,7614,17.2,Academic,YouTube,Facebook,9.4,905,Poor,Fair,Poor,6.1,1.83,4,57.3
+85,24,Male,No,Home WiFi,6919,37.8,Social Media,TikTok,Twitter,6,1282,Very Good,Fair,Very Good,4.3,3.4,1,93.1
+86,20,Other,Yes,Home WiFi,1853,6.4,Entertainment,TikTok,TikTok,6.1,914,Very Good,Excellent,Good,9.8,1.56,5,97.1
+87,23,Other,Yes,Mobile Data,5146,19.6,E-commerce,TikTok,TikTok,3.5,327,Excellent,Excellent,Excellent,9.3,1.56,1,59.7
+88,18,Male,Yes,None,4769,38.9,E-commerce,Netflix,Facebook,7.9,315,Poor,Fair,Poor,9.6,2.31,5,74.1
+89,21,Male,No,Mobile Data,1574,24.2,Academic,Instagram,Twitter,2.7,1047,Poor,Excellent,Excellent,10,2.72,6,50.1
+90,19,Other,No,Mobile Data,2148,19.8,Academic,Instagram,Twitter,3.9,114,Excellent,Good,Poor,5,3.43,6,86.1
+91,25,Other,Yes,Mobile Data,7293,24.9,Social Media,YouTube,Twitter,4.8,1280,Good,Fair,Fair,6.4,3.21,5,85.7
+92,21,Other,No,Mobile Data,7457,25.2,E-commerce,YouTube,Snapchat,5.6,1384,Good,Excellent,Poor,8.5,2.61,2,65.6
+93,19,Female,No,Public WiFi,8509,30.6,Academic,TikTok,Instagram,3.2,1280,Good,Fair,Very Good,8.2,2.18,4,70.3
+94,23,Female,No,None,5777,9.5,Entertainment,YouTube,Snapchat,2,146,Excellent,Very Good,Good,4.9,3.99,0,68.6
+95,23,Female,No,Home WiFi,4854,13.8,Entertainment,Netflix,Instagram,6.5,423,Poor,Poor,Fair,8.9,2.57,0,45.7
+96,23,Male,Yes,Home WiFi,3491,25.3,Academic,Instagram,Twitter,3.6,943,Excellent,Fair,Poor,5.3,2.63,3,93.2
+97,19,Female,Yes,None,4124,35.3,Academic,TikTok,Twitter,6.2,229,Excellent,Poor,Excellent,5.3,1.91,5,58.5
+98,21,Male,No,Home WiFi,6691,24.7,E-commerce,YouTube,Snapchat,2.4,194,Good,Excellent,Fair,7.2,3.49,0,58.6
+99,23,Male,No,None,4051,13.4,E-commerce,Netflix,Snapchat,5.3,726,Fair,Poor,Fair,7.6,3.23,2,67.7
+100,22,Female,Yes,Home WiFi,1004,28.8,Social Media,Netflix,Instagram,5.8,854,Poor,Fair,Poor,7.5,2.05,5,84.9
